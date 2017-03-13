@@ -1,0 +1,2 @@
+# cReATEify Android App APK
+An android app developed for taking feedback for Techers.. It is form of Continuous Evaluation Scheme designed for BITS Pilani Teachers  so that teachers could understand the need and understanding level of students.
